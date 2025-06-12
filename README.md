@@ -1,1 +1,1 @@
-# Reversing-Conway-s-game-of-life-
+# Reversing-Conway's game of life
